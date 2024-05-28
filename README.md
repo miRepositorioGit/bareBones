@@ -1,2 +1,2 @@
 README.md
-# Muestracomo vincular/adjuntar un archivo alrepositorio 
+# Muestra como vincular/adjuntar un archivo alrepositorio 
