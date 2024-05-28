@@ -1,7 +1,7 @@
 README.md
 # Muestra como vincular/adjuntar un archivo al repositorio git
 proyectosCb47
-		|--base_Datos
+        |--base_Datos
 				|--app
 				|	|--controladores
 				|	|--libs
